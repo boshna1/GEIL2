@@ -14,3 +14,6 @@ Flowchart on Canva: https://www.canva.com/design/DAG0x71f7Ow/u7Uh3QNKyFOpl-tb7Hy
 (Use ctrl + scroll to zoom if hard to read, middle click to drag view. Have set to anyone can view and put public link, please let me know if this one isn't visible either)
 
 Drive with Source Files (File size too big for Github):https://drive.google.com/drive/folders/1KUdizqlWUQK6pOVikO6jvX8XM8byicQr?usp=sharing
+
+P.S
+I was trying to find the "build" equivalent of unity for unreal and accidently built the level's lighting. I don't want to push it the git because its large, so let me know if there are any problems with the git. The attatched build and release should be fine.
